@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../noob-tube/youtube-clone/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NoobTube-JS"
+	}
+}
